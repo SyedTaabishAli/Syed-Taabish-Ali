@@ -19,10 +19,11 @@
 
 ## My Projects
 
-- `dynatrace-case-study`: How I optimized a banking app with over 25k logins/min (Coming Soon)
-- `Review Analysis`: Using LLMs to analyze student feedback and Online Reviews
-- `iot-border-monitoring`: Smart security with IoT & Python 
-- `focusware-visualisation`: Dimensionality Reduction + Insight Dashboard
+- `Artist Management system`: A webpage with a DBMS system integrated to manage artist records. This project was created using HTML, CSS, PHP, MySQL and apache server.
+- `Enhanced record Label system`: A webpage with a DBMS system integrated to manage artist records. This project was created using HTML, CSS, PHP, MySQL and apache server.
+- `Review Analysis`: Using LLMs to analyze Online Reviews, This analysis used APIs, Machine Learning pipelines and LLMs 
+- `Iot-border-monitoring system`: Smart security with IoT & Python.
+- `Dimensionality Reduction and Data Visualisation`: Dissertation during my Masters in London, Using PCA, t-SNE and LDA.
 
 ---
 
